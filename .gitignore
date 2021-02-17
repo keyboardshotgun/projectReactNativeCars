@@ -707,7 +707,6 @@ Backup of *.doc*
 *.sig
 
 pkg/
-src/
 
 ### ModelSim template
 # ignore ModelSim generated files and directories (temp files and so on)
