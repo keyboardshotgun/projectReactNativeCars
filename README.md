@@ -1,7 +1,11 @@
 # Pproject 소개
 
-> 슈퍼자동차 소개 , API를 사용한 자동차 이미지 검색 및 저장
-
+> 슈퍼자동차 소개 , Pexels.com API를 사용한 자동차 이미지 검색 및 저장
+- 기획 및 API 결정 : 5일
+- 디자인 및 로컬 이미지 선별, 후처리 : 2일
+- 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 1일
+- 코드작성 : 2일
+- 테스트 : 1일
 - 스크롤 네비게이션 / 이미지 뷰어 / 드롭다운 메뉴 / 글로벌 모달 등등 커스텀으로 개발
 - pexels.com API를 통한 슈퍼 카 이미지 제공 (120장 한도)
 - 원하는 이미지를 디바이스에 저장 / 관리
@@ -26,7 +30,7 @@
 ![1 splash_screen_60p_30s](https://user-images.githubusercontent.com/25360777/108144861-d3642000-710d-11eb-95b7-e2f1066196fd.gif)
 </br></br></br>
 ***
-## 커스텀 네비게이션 과 프로그래스 바 
+## Swipe & Touch 네비게이션 / 진행상태 프로그래스 바 
 - [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 - 슬라이드 네비게이션 : rn-reanimated + PanGetstureHandler
 - 터치유형에 따른 반응처리 및 가속도 처리
@@ -46,9 +50,9 @@
 ***
 ## 웹이미지 다운로드 
 - [![Fetch](https://img.shields.io/badge/Rn--fetch--blob-v0.12.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/joltup/rn-fetch-blob)
-- 웹 이미지를 디바이스 저장소에 다운로드
-- Toast 알림 처리
-- android downloadmanager 다운로드 히스토리 관리
+- 웹 이미지를 지정한 디바이스 저장소에 다운로드
+- 다운로드 완료/실패 Toast 알림
+- Android downloadmanager 다운로드 관리
 
 ![4 image_download_60p_30s](https://user-images.githubusercontent.com/25360777/108144940-f5f63900-710d-11eb-8443-db68a10023a5.gif)
 </br></br></br>
