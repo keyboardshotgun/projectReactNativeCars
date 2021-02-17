@@ -5,10 +5,8 @@
 - 스크롤 네비게이션 / 이미지 뷰어 / 드롭다운 메뉴 / 글로벌 모달 등 개발
 - pexels.com API를 통한 슈퍼 카 이미지 제공 (120장 한도)
 - 원하는 이미지를 디바이스에 저장 / 관리
+- Project Common Dependencies
 
-***
-
-### Project Common Dependencies
 [![React](https://img.shields.io/badge/React-v16.13.1-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/facebook/react)
 [![RN](https://img.shields.io/badge/React--Native-v0.63.4-white?style=fla&labelColor=blue&logoColor=blackt&logo=react)](https://github.com/facebook/react-native)
 [![Typescript](https://img.shields.io/badge/Typescript-v4.1.3-white?style=flat&labelColor=blue&logoColor=black&logo=typescript)](https://github.com/microsoft/TypeScript)
