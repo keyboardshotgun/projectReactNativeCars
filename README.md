@@ -55,7 +55,7 @@
 
 
 
-## 맵 [![Mapbox](https://img.shields.io/badge/React--native--mapbox--gl-v8.1.0-white?style=flat&labelColor=blue&logoCoor=black&logo=google-maps)](https://github.com/react-native-mapbox-gl/maps)
+## 위치정보 처리 [![Mapbox](https://img.shields.io/badge/React--native--mapbox--gl-v8.1.0-white?style=flat&labelColor=blue&logoCoor=black&logo=google-maps)](https://github.com/react-native-mapbox-gl/maps)
 - mapbox API
 - 지정한 위치로의 이동 및 현재 위치 보 
 - map 컨트롤을 위한 버튼 개발
