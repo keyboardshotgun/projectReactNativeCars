@@ -20,7 +20,8 @@
 
 ***
 
-## 스플래시 스크린 [![Splash](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/crazycodeboy/react-native-splash-screen)
+## 스플래시 스크린 
+- [![Splash](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/crazycodeboy/react-native-splash-screen)
 - Android / iOS
 
 ![1 splash_screen_60p_30s](https://user-images.githubusercontent.com/25360777/108144861-d3642000-710d-11eb-95b7-e2f1066196fd.gif)
