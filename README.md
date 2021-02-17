@@ -6,7 +6,7 @@
 - 원하는 이미지를 디바이스에 저장 / 관리
 
 ### Project Dependencies
-[ ![alt text](https://img.shields.io/badge/React-v16.13.1-white?style=flat&labelColor=blue&logoColor=black&logo=react) ]
+[![react](https://img.shields.io/badge/React-v16.13.1-white?style=flat&labelColor=blue&logoColor=black&logo=react)]
 [ ![alt text](https://img.shields.io/badge/React--Native-v0.63.4-white?style=fla&labelColor=blue&logoColor=blackt&logo=react) ]
 [ ![alt text](https://img.shields.io/badge/Typescript-v4.1.3-white?style=flat&labelColor=blue&logoColor=black&logo=typescript) ]
 [ ![alt text](https://img.shields.io/badge/Redux-v7.2.2-white?style=flat&labelColor=blue&logoColor=black&logo=redux) ]
