@@ -23,14 +23,14 @@
 [![Redash](https://img.shields.io/badge/React--native--redash-v16.0.8-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/wcandillon/react-native-redash)
 </br></br></br>
 ***
-## 스플래시 스크린   
+## Splash Screen
 - [![Splash](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/crazycodeboy/react-native-splash-screen)
 - Android / iOS
 
 ![1 splash_screen_60p_30s](https://user-images.githubusercontent.com/25360777/108144861-d3642000-710d-11eb-95b7-e2f1066196fd.gif)
 </br></br></br>
 ***
-## Swipe & Touch 네비게이션 / 진행상태 프로그래스 바 
+## Swipe & Touch Navigation / Animated Progress bar
 - [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 - 슬라이드 네비게이션 : rn-reanimated + PanGetstureHandler
 - 터치유형에 따른 반응처리 및 가속도 처리
@@ -39,7 +39,7 @@
 ![2 customSlider_60p_30s](https://user-images.githubusercontent.com/25360777/108144893-e1b23c00-710d-11eb-8430-e286ed92766a.gif)
 </br></br></br>
 ***
-## 이미지 뷰어 
+## Image viewer
 - [![Fast](https://img.shields.io/badge/React--native--fast--image-v8.2.4-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/DylanVann/react-native-fast-image)
 - 두개의 FlatList사용, onScrollMomentsEnd 이벤트로 상호작용
 - onEndReached 이벤트로 Pexels.com API 접속 신규 이미지 조회
@@ -48,7 +48,7 @@
 ![3 customImaageviwer_download_from_web_60p_30s](https://user-images.githubusercontent.com/25360777/108144918-ec6cd100-710d-11eb-934f-ce850e3593af.gif)
 </br></br></br>
 ***
-## 웹이미지 다운로드 
+## Web Image Download
 - [![Fetch](https://img.shields.io/badge/Rn--fetch--blob-v0.12.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/joltup/rn-fetch-blob)
 - 웹 이미지를 지정한 디바이스 저장소에 다운로드
 - 다운로드 완료/실패 Toast 알림
@@ -57,7 +57,7 @@
 ![4 image_download_60p_30s](https://user-images.githubusercontent.com/25360777/108144940-f5f63900-710d-11eb-8443-db68a10023a5.gif)
 </br></br></br>
 ***
-### 글로벌 모달 
+### Global Modal Screen
 - [![Modal](https://img.shields.io/badge/React--native--svg-v12.1.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/react-native-svg/react-native-svg)
 - 글로벌 모달 컴포넌트 개발.
 - React-native-svg + RN-reanimated 개발
@@ -65,7 +65,7 @@
 ![5 modal and animated_60p_30s](https://user-images.githubusercontent.com/25360777/108144962-ff7fa100-710d-11eb-898b-bdb9848d7544.gif)
 </br></br></br>
 ***
-## 위치정보 처리 
+## Map & Locations
 - [![Mapbox](https://img.shields.io/badge/React--native--mapbox--gl-v8.1.0-white?style=flat&labelColor=blue&logoCoor=black&logo=google-maps)](https://github.com/react-native-mapbox-gl/maps)
 - mapbox API
 - 지정한 위치로의 이동 및 현재 위치 보 
@@ -74,9 +74,9 @@
 ![6 map_30p_15p](https://user-images.githubusercontent.com/25360777/108144976-07d7dc00-710e-11eb-8bed-eda478c2f53a.gif)
 </br></br></br>
 ***
-## 저장 이미지 관리 
+## Simple Edit Image
 - [![CropPicker](https://img.shields.io/badge/React--native--image--crop--picker-v0.35.3-white?style=flat&labelColor=blue&logoCoor=black&logo=react)](https://github.com/ivpusic/react-native-image-crop-picker)
-- 디바이스 라이브러리 사진 선택
+- 디바이스 라이브러리
 - 이미지 crop 처리
 - 이미지 배경 처리
 
