@@ -24,6 +24,7 @@
 
 ## 커스텀 네비게이션 과 프로그래스 바 [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 - 슬라이드 네비게이션 : rn-reanimated + PanGetstureHandler
+- 터치유형에 따른 반응처리 및 가속도 처리
 - Animated progress bar : rn-reanimated
 
 ![2 customSlider_60p_30s](https://user-images.githubusercontent.com/25360777/108144893-e1b23c00-710d-11eb-8430-e286ed92766a.gif)
