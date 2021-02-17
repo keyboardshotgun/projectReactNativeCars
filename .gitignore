@@ -34,6 +34,7 @@ local.properties
 .vscode/
 
 assets/
+ios/
 android/
 .env
 
