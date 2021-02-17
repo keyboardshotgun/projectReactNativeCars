@@ -64,7 +64,7 @@
 ![4 image_download_60p_30s](https://user-images.githubusercontent.com/25360777/108144940-f5f63900-710d-11eb-8443-db68a10023a5.gif)
 </br></br></br>
 ***
-### Global Modal Screen
+## Global Modal Screen
 - [![Modal](https://img.shields.io/badge/React--native--svg-v12.1.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/react-native-svg/react-native-svg)
 - 글로벌 모달 컴포넌트 개발.
 - React-native-svg + RN-reanimated 개발
@@ -92,7 +92,7 @@
 </br></br></br>
 
 
-#### 후기 및 정리
+## 후기 및 계획
 - mapbox는 처음 써봐서 삽질을 조금 했는데, 무조건 클래스형 컴포넌트로 개발하는게 정신건강에 좋음.
 - mapbox는 제공 정보 및 기능도 많고, 일단 무료라서 큰장점
   하지만, 진짜 간단한 프로젝트에 추천함 (큰 프로젝트는 유료 Map API쓰는 것이 정답인듯)
