@@ -7,10 +7,11 @@
   + 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 1일
   + 코드작성 : 2일
   + 테스트 : 1일
-- 기능
+- 기능 및 특징
+  + 타입스크립트
   + 제스쳐 네비게이션
   + 이미지 뷰어
-  + pexels.com API를 통한 실시간 슈퍼 카 이미지 검색 (최대 120장)
+  + pexels.com API를 통한 실시간 슈퍼 카 이미지 검색
   + 드롭다운 메뉴
   + 글로벌 모달
   + 위치정보 및 지도
@@ -48,7 +49,7 @@
 ## Image viewer
 - [![Fast](https://img.shields.io/badge/React--native--fast--image-v8.2.4-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/DylanVann/react-native-fast-image)
 - 두개의 FlatList사용, onScrollMomentsEnd 이벤트로 상호작용
-- onEndReached 이벤트로 Pexels.com API 접속 신규 이미지 조회
+- onEndReached 이벤트로 Pexels.com API 호출, 요청 당 10장 추가, 최대 120장 제한처리
 - Redux-saga와 immer.js로 status 관리
 
 ![3 customImaageviwer_download_from_web_60p_30s](https://user-images.githubusercontent.com/25360777/108144918-ec6cd100-710d-11eb-934f-ce850e3593af.gif)
@@ -89,3 +90,15 @@
 ![7 image modify_60p_25f_30s](https://user-images.githubusercontent.com/25360777/108144990-0efeea00-710e-11eb-8020-f2d9dbd74ecc.gif)
 ![8 layered_60p_30s](https://user-images.githubusercontent.com/25360777/108145022-19b97f00-710e-11eb-9f25-1527e4441dd0.gif)
 </br></br></br>
+
+
+#### 후기 및 정리
+- mapbox는 처음 써봐서 삽질을 조금 했는데, 무조건 클래스형 컴포넌트로 개발하는게 정신건강에 좋음.
+- mapbox는 제공 정보 및 기능도 많고, 일단 무료라서 큰장점
+  하지만, 진짜 간단한 프로젝트에 추천함 (큰 프로젝트는 돈 주더라도 G사꺼 추천)
+- react-native-reanimated v2 rc.0 좋기는 한데, 버전업을 조금더 하면 더 좋을 듯.
+- 덕분에 실기에서는 평균 60fps 보장 될듯.
+- 코드 리펙토링
+- FlatList 에서 VirtualList 변경 후 성능비교
+- 이미지 뷰어 디자인 변경해야 할 듯.
+  
