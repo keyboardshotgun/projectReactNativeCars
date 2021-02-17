@@ -1,8 +1,10 @@
 # projectReactNativeCars
+> 슈퍼카를 소개하는 어플리케이션
+- 스크롤 네비게이션 / 이미지 뷰어 / 드롭다운 메뉴 / 글로벌 모달 등 개발
+- pexels.com API를 통한 슈퍼 카 이미지 제공
+- 원하는 이미지를 디바이스에 저장
 
-> Dependencies 
- 
-
+## Dependencies
 [ ![alt text](https://img.shields.io/badge/React-v16.13.1-white?style=flat&labelColor=blue&logoColor=black&logo=react) ]
 [ ![alt text](https://img.shields.io/badge/React--Native-v0.63.4-white?style=fla&labelColor=blue&logoColor=blackt&logo=react) ]
 [ ![alt text](https://img.shields.io/badge/Typescript-v4.1.3-white?style=flat&labelColor=blue&logoColor=black&logo=typescript) ]
@@ -15,11 +17,8 @@
 [ ![alt text](https://img.shields.io/badge/React--native--redash-v16.0.8-white?style=flat&labelColor=blue&logoColor=black&logo=react) ]
 
 
-## 스플레쉬 스크린 [ ![alt text](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react) ]
+## 스플래시 스크린 [ ![alt text](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react) ]
 - Splash Screen for Android / IOS
-- Must not have its own title.
-- Must link to local image in current repository.
-- Must appear directly after the title.
 
 ![1 splash_screen_60p_30s](https://user-images.githubusercontent.com/25360777/108144861-d3642000-710d-11eb-95b7-e2f1066196fd.gif)
 
