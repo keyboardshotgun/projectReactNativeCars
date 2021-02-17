@@ -17,17 +17,15 @@
 
   [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 [![Redash](https://img.shields.io/badge/React--native--redash-v16.0.8-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/wcandillon/react-native-redash)
-</br>
-***
 </br></br></br>
-## 스플래시 스크린 
+***
+## 스플래시 스크린   
 - [![Splash](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/crazycodeboy/react-native-splash-screen)
 - Android / iOS
 
 ![1 splash_screen_60p_30s](https://user-images.githubusercontent.com/25360777/108144861-d3642000-710d-11eb-95b7-e2f1066196fd.gif)
-</br>
-***
 </br></br></br>
+***
 ## 커스텀 네비게이션 과 프로그래스 바 [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 - 슬라이드 네비게이션 : rn-reanimated + PanGetstureHandler
 - 터치유형에 따른 반응처리 및 가속도 처리
