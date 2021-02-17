@@ -1,14 +1,15 @@
 # Pproject 소개
 
 > 슈퍼자동차 소개 , Pexels.com API를 사용한 자동차 이미지 검색 및 저장
-- 기획 및 API 결정 : 2일
-- UI 디자인 / 이미지 선별 및 수정 : 2일
-- 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 1일
-- 코드작성 : 2일
-- 테스트 : 1일
-- 스크롤 네비게이션 / 이미지 뷰어 / 드롭다운 메뉴 / 글로벌 모달 등등 커스텀으로 개발
-- pexels.com API를 통한 슈퍼 카 이미지 제공 (120장 한도)
-- 원하는 이미지를 디바이스에 저장 / 관리
+- 기간
+  + 기획 및 API 결정 : 2일
+  + UI 디자인 / 이미지 선별 및 수정 : 2일
+  + 기본세팅 및 프로젝트 구조, 라이브러리 설치 : 1일
+  + 코드작성 : 2일
+  + 테스트 : 1일
+- 제스쳐 네비게이션 / 이미지 뷰어 / 드롭다운 메뉴 / 글로벌 모달 등등 커스텀으로 개발
+- pexels.com API를 통한 슈퍼 카 이미지 제공 (최대 120장)
+- 디바이스에 이미지 저장 및 관리
 - Project Common Dependencies
 
   [![React](https://img.shields.io/badge/React-v16.13.1-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/facebook/react)
