@@ -6,6 +6,8 @@
 - pexels.com API를 통한 슈퍼 카 이미지 제공 (120장 한도)
 - 원하는 이미지를 디바이스에 저장 / 관리
 
+***
+
 ### Project Common Dependencies
 [![React](https://img.shields.io/badge/React-v16.13.1-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/facebook/react)
 [![RN](https://img.shields.io/badge/React--Native-v0.63.4-white?style=fla&labelColor=blue&logoColor=blackt&logo=react)](https://github.com/facebook/react-native)
@@ -16,12 +18,14 @@
 [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 [![Redash](https://img.shields.io/badge/React--native--redash-v16.0.8-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/wcandillon/react-native-redash)
 
+***
+
 ## 스플래시 스크린 [![Splash](https://img.shields.io/badge/React--native--splash--screen-v3.2.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/crazycodeboy/react-native-splash-screen)
 - Splash Screen for Android / IOS
 
 ![1 splash_screen_60p_30s](https://user-images.githubusercontent.com/25360777/108144861-d3642000-710d-11eb-95b7-e2f1066196fd.gif)
 
-
+***
 
 ## 커스텀 네비게이션 과 프로그래스 바 [![Reanimated](https://img.shields.io/badge/React--native--reanimated-v2.0.0--rc.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://docs.swmansion.com/react-native-reanimated/)
 - 슬라이드 네비게이션 : rn-reanimated + PanGetstureHandler
@@ -30,7 +34,7 @@
 
 ![2 customSlider_60p_30s](https://user-images.githubusercontent.com/25360777/108144893-e1b23c00-710d-11eb-8430-e286ed92766a.gif)
 
-
+***
 
 ## 이미지 뷰어 [![Fast](https://img.shields.io/badge/React--native--fast--image-v8.2.4-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/DylanVann/react-native-fast-image)
 - FlatList + Animated
@@ -47,7 +51,7 @@
 
 ![4 image_download_60p_30s](https://user-images.githubusercontent.com/25360777/108144940-f5f63900-710d-11eb-8443-db68a10023a5.gif)
 
-
+***
 
 ### 글로벌 모달 [![Modal](https://img.shields.io/badge/React--native--svg-v12.1.0-white?style=flat&labelColor=blue&logoColor=black&logo=react)](https://github.com/react-native-svg/react-native-svg)
 - 글로벌 모달 컴포넌트 개발.
@@ -55,7 +59,7 @@
 
 ![5 modal and animated_60p_30s](https://user-images.githubusercontent.com/25360777/108144962-ff7fa100-710d-11eb-898b-bdb9848d7544.gif)
 
-
+***
 
 ## 위치정보 처리 [![Mapbox](https://img.shields.io/badge/React--native--mapbox--gl-v8.1.0-white?style=flat&labelColor=blue&logoCoor=black&logo=google-maps)](https://github.com/react-native-mapbox-gl/maps)
 - mapbox API
@@ -64,9 +68,9 @@
 
 ![6 map_30p_15p](https://user-images.githubusercontent.com/25360777/108144976-07d7dc00-710e-11eb-8bed-eda478c2f53a.gif)
 
+***
 
-
-## 저장 이미지 선택 [![CropPicker](https://img.shields.io/badge/React--native--image--crop--picker-v0.35.3-white?style=flat&labelColor=blue&logoCoor=black&logo=react)](https://github.com/ivpusic/react-native-image-crop-picker)
+## 저장 이미지 관리 [![CropPicker](https://img.shields.io/badge/React--native--image--crop--picker-v0.35.3-white?style=flat&labelColor=blue&logoCoor=black&logo=react)](https://github.com/ivpusic/react-native-image-crop-picker)
 - 디바이스 라이브러리 사진 선택
 - crop 처리 가능
 - 선택 이미지 배경으로 처리
